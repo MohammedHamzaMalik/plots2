@@ -684,6 +684,8 @@ en:
       most_liked_questions: Most liked questions
     _comment:
       promotion: "Promote this comment to an answer"
+    _recent_questions_shadow:
+      by: "by"
   user_sessions:
     new:
       log_in: "Log in"
